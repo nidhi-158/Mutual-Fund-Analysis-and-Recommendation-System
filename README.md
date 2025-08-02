@@ -70,21 +70,4 @@ Develop a mutual fund recommendation system that:
 
 ## 🖥 Installation
 ### Phase 1: Historical System (Streamlit)
-```bash
-git clone https://github.com/your-username/mutual-fund-recommendation-system.git
-cd mutual-fund-recommendation-system/Int project
-pip install -r requirements.txt
-streamlit run streamlit_app.py
----
-
 ### Phase 2: Live NAV System (FastAPI + React)
-
-# Backend
-cd mf_website/backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-
-# Frontend
-cd ../frontend/mutual-fund-app
-npm install
-npm start
