@@ -1,4 +1,4 @@
-# Core Data Science Libraries
+# Core Libraries
 pandas
 numpy
 scikit-learn
@@ -15,12 +15,12 @@ python-multipart
 requests
 beautifulsoup4
 
-# Deployment (Streamlit for Phase 1)
+# Streamlit (for historical NAV phase)
 streamlit
 
 # Utilities
 python-dotenv
 
-# Optional (if you have visualizations in Streamlit or backend)
+# Visualization (optional but useful)
 matplotlib
 seaborn
