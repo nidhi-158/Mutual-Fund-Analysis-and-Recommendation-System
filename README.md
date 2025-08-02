@@ -70,4 +70,6 @@ Develop a mutual fund recommendation system that:
 
 ## 🖥 Installation
 ### Phase 1: Historical System (Streamlit)
+---
 ### Phase 2: Live NAV System (FastAPI + React)
+---
