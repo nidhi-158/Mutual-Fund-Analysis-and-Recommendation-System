@@ -92,3 +92,5 @@ cd ../frontend/mutual-fund-app
 npm install
 npm start
 ```
+
+Output on streamlit localhost for new investors:
