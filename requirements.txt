@@ -1,0 +1,26 @@
+# Core Data Science Libraries
+pandas
+numpy
+scikit-learn
+
+# Backend (FastAPI)
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+python-multipart
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# Deployment (Streamlit for Phase 1)
+streamlit
+
+# Utilities
+python-dotenv
+
+# Optional (if you have visualizations in Streamlit or backend)
+matplotlib
+seaborn
