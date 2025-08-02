@@ -36,11 +36,11 @@ Develop a mutual fund recommendation system that:
 1. **Data Scraping**
    - Scrape 2 years of historical NAV data.
    - Fetch live NAV data from AMFI.
-2. **Data Preprocessing (`after_phase_1.py`)**
+2. **Data Preprocessing)**
    - Handle null values.
    - Convert Date & NAV types.
    - Remove duplicates.
-3. **Feature Engineering (`after_phase_2.py`, `after_phase_2_1.py`, `after_phase_2_2.py`)**
+3. **Feature Engineering**
    - Calculate returns and risk metrics (Std Dev, Sharpe, Sortino).
    - Asset class & market cap classification.
    - Balanced distribution.
@@ -75,7 +75,7 @@ git clone https://github.com/your-username/mutual-fund-recommendation-system.git
 cd mutual-fund-recommendation-system/Int project
 pip install -r requirements.txt
 streamlit run streamlit_app.py
-
+---
 
 ### Phase 2: Live NAV System (FastAPI + React)
 
