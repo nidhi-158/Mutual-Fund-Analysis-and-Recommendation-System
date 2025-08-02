@@ -71,8 +71,6 @@ Develop a mutual fund recommendation system that:
 ## 🖥 Installation
 ## Phase 1: Historical System (Streamlit)
 ```bash
-git clone https://github.com/your-username/mutual-fund-recommendation-system.git
-cd mutual-fund-recommendation-system/Int project
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ````
